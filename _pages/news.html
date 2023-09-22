@@ -7,6 +7,7 @@ permalink: /news/
 
 <h3>News</h3>
 
-<h3>Research</h3>
-
-<p>Research interests</p>
+<ul>
+  {% for article in site.data.news %}
+  <li><p>{{article.title}}</p></li>
+</ul>
