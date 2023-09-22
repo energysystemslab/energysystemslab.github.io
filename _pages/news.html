@@ -1,12 +1,17 @@
 ---
-title: Contact
+title: News
 layout: page
-excerpt: RT2 Lab -- Contact
+excerpt: Energy Storage Materials Lab -- News
 permalink: /news/
 ---
 
-<h3>Research Opportunities</h3>
+<h3>News</h3>
 
-<p>We are always seeking highly motivated graduate students from diverse backgrounds, including materials science, mechanical engineering, electrical engineering, or related fields, to join our interdisciplinary research group.</p>
-
-<p>To learn more about research opportunities, contact Prof. Davi Soares at davi.soares[at]wichita[dot]edu</p>
+<ul>
+  {% for article in site.data.news %}
+  <li>
+    <h2>{{article.title}}</h2>
+    <p>Date: {{article.date}}</p>
+    <p>{{article.content}}</p>
+  </li>
+</ul>
