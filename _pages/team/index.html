@@ -7,6 +7,25 @@ permalink: /team/
 <!-- Staff -->
 <h2 class="mb-3"><a id="staff"></a>Staff</h2>
 
+<!-- Principal Investigator -->
+<h2 class="mb-3"><a id="staff"></a>Principal Investigator</h2>
+
+{% assign members = site.posts | where: 'category', 'Principal Investigator' | sort: 'date' %}
+<ul class="list-unstyled">
+<div class="row">
+{% for member in members%}
+    {% assign ncols = 2 %}
+    {% assign i = forloop.index0 | modulo: ncols %}
+        <div class="col">
+            {%- include team_member.html -%}
+        </div>
+    {% if i == 1 %}
+        </div><div class="row">
+    {% endif %}
+{% endfor %}
+</div>
+</ul>
+
 {% assign members = site.posts | where: 'category', 'staff' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
