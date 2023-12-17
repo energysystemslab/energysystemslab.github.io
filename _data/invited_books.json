@@ -1,11 +1,14 @@
 [
-    {"Item Type":"books",
+    {"Item Type":"bookSection",
     "Publication Year":2022,
     "Author":"Soares, Davi; Mukherjee, Santanu; Singh, Gurpreet",
     "Title":"Electrode Materials for High-Performance Sodium-Ion Batteries",
     "Publication Title":"Book Title: Handbook of Sodium-Ion Batteries: Materials and Characterisation","DOI":"10.1201/9781003308744",
+    "Editor": "Zhao, George; Gaddam, Rohit",
     "Url":"https://www.taylorfrancis.com/books/edit/10.1201/9781003308744/handbook-sodium-ion-batteries-rohit-gaddam-george-zhao",
     "Date":"1/30/2023",
-    "Pages":764,
+    "Pages": "764",
+    "Volume": "1",
+    "Publisher": "Jenny Stanford Publishing",
     "LibraryCatalog":"DOI.org (Crossref)"}
 ]
