@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 <h3>Peer reviewed archival journal</h3>
-<ul class="list-unstyled">
+<ol class="list-unstyled">
     {% assign pub_list = site.data.publications | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
 
     {% for group in pub_list %}
@@ -19,7 +19,7 @@ permalink: /publications/
         {% endfor %}
 
     {% endfor %}
-</ul>
+</ol>
 
 <h3>Presentations and invited talks</h3>
 <ul class="list-unstyled">
