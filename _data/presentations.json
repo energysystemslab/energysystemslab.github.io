@@ -1,9 +1,9 @@
 [
-    {"Item Type":"inproceedings",
+    {"Item Type":"journalArticle",
     "Publication Year":2022,
     "Author":"Soares, Davi; Singh, Gurpreet",
     "Title":"A Comparative Study of Tantalum Disulfide as Lithium-ion and Potassium-ion Batteries",
     "Date":"2021-10",
-    "Organization": "MS &T 2021",
-    "Location": "Virtual meeting"
+    "Publication Title":"MS &T 2021, virtual meeting"
+}
 ]
