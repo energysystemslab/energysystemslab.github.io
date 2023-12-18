@@ -1,10 +1,10 @@
 [
-    {"Item Type":"presentation",
-    "Presenter":"Soares, Davi",
+    {"Item Type":"Presentation",
     "Contributor":"Singh, Gurpreet",
-    "Title":"A Comparative Study of Tantalum Disulfide as Lithium-ion and Potassium-ion Batteries",
+    "Presenter":"Soares, Davi",
     "Date":"01/10/2021",
     "Meeting Name":"MS &T 2021",
-    "Place": "virtual meeting"
+    "Place": "virtual meeting",
+    "Title":"A Comparative Study of Tantalum Disulfide as Lithium-ion and Potassium-ion Batteries"
 }
 ]
