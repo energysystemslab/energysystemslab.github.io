@@ -1,6 +1,6 @@
 ---
 title: Energy Storage Lab
-layout: homelay
+layout: page
 permalink: /
 ---
 
