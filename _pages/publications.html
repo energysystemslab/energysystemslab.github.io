@@ -23,14 +23,18 @@ permalink: /publications/
 
 <h3>Presentations and invited talks</h3>
 <ul class="list-unstyled">
+    {% assign pub_list = site.data.presentations | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
 
-D. M. Soares and G. Singh, “A comparative study of tantalum disulfide as lithium-ion and potassium-ion batteries,” MS&T 2021, October 2021. \\
+    {% for group in pub_list %}
 
-D. M. Soares and G. Singh, “Tungsten ditelluride, a semimetal transition metal dichalcogenide as active material for monovalent-ion battery electrodes,” MS&T 2021, October 2021. \\
+        {% assign year = group.name | to_integer %}
 
-D. M. Soares and G. Singh, “Layered Te-based transition metal dichalcogenides as stable beyond lithium-ion battery electrodes,” XIX Brazilian Materials Research Society Meeting (XIX B-MRS), August 2021. \\
+        <!-- <h3 class="mt-4">{{ year }}</h3> -->
+        {% for publi in group.items %}
+            {%- include publication.html -%}
+        {% endfor %}
 
-
+    {% endfor %}
 </ul>
 
 <h3>Invited book chapters</h3>
