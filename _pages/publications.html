@@ -6,24 +6,8 @@ permalink: /publications/
 ---
 
 <h3>Peer reviewed archival journal</h3>
-<ol class="list-unstyled">
-    {% assign pub_list = site.data.publications | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
-
-    {% for group in pub_list %}
-
-        {% assign year = group.name | to_integer %}
-
-        <!-- <h3 class="mt-4">{{ year }}</h3> -->
-        {% for publi in group.items %}
-            {%- include publication.html -%}
-        {% endfor %}
-
-    {% endfor %}
-</ol>
-
-<h3>Presentations and invited talks</h3>
 <ul class="list-unstyled">
-    {% assign pub_list = site.data.presentations | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
+    {% assign pub_list = site.data.publications | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
 
     {% for group in pub_list %}
 
@@ -53,4 +37,18 @@ permalink: /publications/
     {% endfor %}
 </ul>
 
+<h3>Presentations and invited talks</h3>
+<ul class="list-unstyled">
+    {% assign pub_list = site.data.presentations | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
 
+    {% for group in pub_list %}
+
+        {% assign year = group.name | to_integer %}
+
+        <!-- <h3 class="mt-4">{{ year }}</h3> -->
+        {% for publi in group.items %}
+            {%- include publication.html -%}
+        {% endfor %}
+
+    {% endfor %}
+</ul>
