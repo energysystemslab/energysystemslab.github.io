@@ -1,9 +1,29 @@
 [
-    {"Item Type":"Presentation",
-    "Contributor":"Soares, Davi; Singh, Gurpreet",
-    "Date":"01/10/2021",
-    "Meeting Name":"MS &T 2021",
-    "Place": "virtual meeting",
-    "Title":"A Comparative Study of Tantalum Disulfide as Lithium-ion and Potassium-ion Batteries"
-}
+	{
+		"id": "http://zotero.org/users/local/Olo2skKn/items/6D23X4N2",
+		"type": "speech",
+		"event-place": "Virtual",
+		"event-title": "MS &T 2021",
+		"genre": "Oral",
+		"publisher-place": "Virtual",
+		"title": "A Comparative Study of Tantalum Disulfide as Lithium-ion and Potassium-ion Batteries",
+		"author": [
+			{
+				"family": "Soares",
+				"given": "Davi"
+			},
+			{
+				"family": "Singh",
+				"given": "Gurpreet"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10
+				]
+			]
+		}
+	}
 ]
