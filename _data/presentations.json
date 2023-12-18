@@ -1,18 +1,189 @@
 [
-    {"Item Type":"journalArticle",
+{
+    "Item Type":"journalArticle",
     "Publication Year":2021,
     "Author":"Soares, Davi; Singh, Gurpreet",
     "Date":"01/10/2021",
-    "Publication Title":"MS &T 2021, Virtual meeting",
+    "Publication Title":"MS&T 2021, Virtual meeting",
     "Title":"A Comparative Study of Tantalum Disulfide as Lithium-ion and Potassium-ion Batteries"
 },
 {
-    "Item Type": "conferencePaper",
+    "Item Type": "journalArticle",
     "Publication Year": 2021,
     "Author": "Soares, D. M.; Singh, G.",
-    "Date": "October 2021",
-    "Conference": "MS&T 2021",
-    "Title": "A Comparative Study of Tantalum Disulfide as Lithium-ion and Potassium-ion Batteries"
-}
+    "Date": "August 2021",
+    "Conference": "XIX Brazilian Materials Research Society Meeting (XIX B-MRS)",
+    "Title": "Layered Te-based Transition Metal Dichalcogenides as Stable Beyond Lithium-ion Battery Electrodes"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2021,
+    "Author": "Soares, D. M.; Singh, G.",
+    "Date": "August 2021",
+    "Conference": "XIX Brazilian Materials Research Society Meeting (XIX B-MRS)",
+    "Title": "Unveiling Electrochemical Performance of Tantalum Disulfide (TaS<sub>2</sub>) as Beyond Lithium-ion Battery Anode Material"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2021,
+    "Author": "Soares, D. M.; Singh, G.",
+    "Date": "April 2021",
+    "Conference": "MRS Spring 2021",
+    "Title": "Electrochemical Studies of TaS<sub>2</sub> as Electrode Material for Monovalent-ion Batteries"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2021,
+    "Author": "Soares, D. M.; Singh, G.",
+    "Date": "February 2021",
+    "Conference": "45th International Conference and Expo on Advanced Ceramics and Composites (ICACC 2021)",
+    "Title": "Polymer-derived Ceramics Functionalization of Molybdenum Disulfide towards Electrochemical Stability of Sodium-ion Battery Electrode"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2020,
+    "Author": "Soares, D. M.; Singh, G.",
+    "Date": "November 2020",
+    "Conference": "2020 Materials Research Society (MRS) Spring/Fall Meeting & Exhibit",
+    "Title": "WTe<sub>2</sub>, a Semimetal Transition Metal Dichalcogenide Electrode for Potassium-ion Batteries"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2020,
+    "Author": "Soares, D. M.; Shuck, C.; Kurra, N.; Gogotsi, Y.; Singh, G.",
+    "Date": "November 2020",
+    "Conference": "2020 Materials Research Society (MRS) Spring/Fall Meeting & Exhibit",
+    "Title": "MXene Nanosheets as Active Materials for Nonaqueous Monovalent-ion Battery Electrodes"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2020,
+    "Author": "Soares, D. M.; Shuck, C.; Kurra, N.; Gogotsi, Y.; Singh, G.",
+    "Date": "November 2020",
+    "Conference": "2020 Materials Research Society (MRS) Spring/Fall Meeting & Exhibit",
+    "Title": "Mo<sub>2</sub>TiC<sub>2</sub> and Mo<sub>2</sub>Ti<sub>2</sub>C<sub>3</sub> Mxene Nanosheets as Electrode Materials for Sodium- and Potassium-ion Batteries"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2020,
+    "Author": "Soares, D. M.; Singh, G.",
+    "Date": "November 2020",
+    "Conference": "Materials Science & Technology 2020 (MS&T20)",
+    "Title": "Silicon Carbon Nitride (SiCN) and Silicon Oxycarbide (SiOC) Functionalization of Molybdenum Disulfide (MoS<sub>2</sub>) as Stable Battery Electrodes"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2020,
+    "Author": "Soares, D. M.; Vicentini, R.; Singh, G.; Peterlevitz, A. C.; Zanin, H.",
+    "Date": "January 2020",
+    "Conference": "44th International Conference and Expo on Advanced Ceramics and Composites (ICACC 2020)",
+    "Title": "Tungsten Oxide and Carbide Composite Electrodes for Electrochemical Capacitors Synthesized by Hot Filament Vapor Deposition Technique"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2019,
+    "Author": "Soares, D.; Vicentini, R.; Zanin, H.; Singh, G.",
+    "Date": "November 2019",
+    "Conference": "ASME International Mechanical Engineering Congress and Exposition (IMECE 2019)",
+    "Title": "Core/Shell Nb<sub>2</sub>O<sub>5</sub> Nanoparticles/Carbon on Carbon Nanotubes as Symmetrical Supercapacitor Electrodes"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2019,
+    "Author": "Soares, D.; Singh, G.",
+    "Date": "November 2019",
+    "Conference": "ASME International Mechanical Engineering Congress and Exposition (IMECE 2019)",
+    "Title": "Electrochemical Performance of Polymer-derived Ceramic Functionalized Transition Metal Dichalcogenides"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2019,
+    "Author": "Bin-Mujib, S.; Mukherjee, S.; Arreola, D.; Soares, D. M.; Singh, G.",
+    "Date": "November 2019",
+    "Conference": "ASME International Mechanical Engineering Congress and Exposition (IMECE 2019)",
+    "Title": "Assessing Corrosion Resistance of 2D Nanomaterial-based Coatings on Stainless Steel Substrates"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2019,
+    "Author": "Soares, Davi; Singh, Gurpreet",
+    "Date": "October 2019",
+    "Conference": "13rd Pacific Rim Conference of Ceramic Societies (PACRIM13)",
+    "Title": "Electrochemical Behavior of Functionalized Transition Metal Dichalcogenide Nanosheets"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2019,
+    "Author": "Soares, Davi; Vicentini, R.; Zanin, H.; Singh, G.",
+    "Date": "July 2019",
+    "Conference": "National Science Foundation (NSF) Partnerships for International Research and Education (PIRE) Workshop",
+    "Title": "Core/Shell Nb2O5 Nanoparticles/Carbon on Carbon Nanotubes as Symmetrical Supercapacitor Electrodes"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2018,
+    "Author": "Real, C. G. M.; Vicentini, R.; Nunes, W. G.; Boas, O. V.; Alves, T. A.; Soares, D. M.; Zanin, H.",
+    "Date": "September 2018",
+    "Conference": "SAE Technical Paper, SAE International",
+    "Title": "Polyacrylonitrile and Activated Carbon Composite for Electric Double Layer Capacitors"
+},
+{
+    "Item Type": "journalArticle",
+    "Publication Year": 2018,
+    "Author": "Real, C. G. M.; Vicentini, R.; Nunes, W. G.; Boas, O. V.; Costa, L. H.; Soares, D. M.; Zanin, H.",
+    "Date": "September 2018",
+    "Conference": "SAE Technical Paper, SAE International",
+    "Title": "Electric Double Layer Capacitors Prepared with Polyvinyl Alcohol and Multi-walled Carbon Nanotubes"
+},
 
+
+{
+    "Item Type":"journalArticle",
+    "Authors": "Soares, Davi; Singh, Gurpreet",
+    "Title": "Tungsten ditelluride, a semimetal transition metal dichalcogenide as active material for monovalent-ion battery electrodes",
+    "Conference": "MS&T 2021",
+    "Date": "October 2021"
+},
+{
+    "Item Type":"journalArticle",
+    "Authors": "Soares, Davi; Singh, Gurpreet",
+    "Title": "Layered tungsten-based dichalcogenides as potassium-ion battery electrodes",
+    "Conference": "45th International Conference and Expo on Advanced Ceramics and Composites (ICACC 2021)",
+    "Date": "February 2021"
+},
+{
+    "Item Type":"journalArticle",
+    "Authors": "Soares, Davi; Shuck, Christopher; Kurra, Narendra; Justus, Sophie; Herold, Porter; Ellis, Mareen; Gogotsi, Yuri; Singh, Gogotsi",
+    "Title": "MXene nanosheets as lithium, sodium-, and potassium-ion batteries: a fundamental study",
+    "Conference": "American Chemical Society (ACS) Fall 2020 Virtual Meeting & Exposition",
+    "Date": "August 2020"
+},
+{
+    "Item Type":"journalArticle",
+    "Authors": "Soares, Davi; Justus, Sophie; Herold, Porter, Ellis, Mareen; Singh, Gurpreet",
+    "Title": "Polymer-derived ceramics functionalization of sulphur-based TMD for electrochemical stability of sodium-ion battery anode",
+    "Conference": "American Chemical Society (ACS) Fall 2020 Virtual Meeting & Exposition",
+    "Date": "August 2020"
+},
+{
+    "Item Type":"journalArticle",
+    "Authors": "Soares, Davi; Shuck, Christopher; Kurra, Narendra; Gogotsi, Yuri; Singh, Gurpreet",
+    "Title": "MXene nanosheets as alkali metal-ion battery electrodes: Initial studies",
+    "Conference": "MXenes: Ten Years Later Conference",
+    "Date": "August 2020"
+},
+{
+    "Item Type":"journalArticle",
+    "Authors": "Soares, Davi; Singh, Gurpreet",
+    "Title": "Two dimensional nanomaterials functionalized by polymer-derived ceramic as stable battery electrodes",
+    "Conference": "44th International Conference and Expo on Advanced Ceramics and Composites (ICACC 2020)",
+    "Date": "January 2020"
+},
+{
+    "Item Type":"journalArticle",
+    "Authors": "Soares, Davi; Singh, Gurpreet",
+    "Title": "Electrochemical behavior of functionalized transition metal dichalcogenide nanosheets",
+    "Conference": "American Chemical Society (ACS) Fall 2019 National Meeting & Exposition",
+    "Date": "August 2019"
+}
 ]
