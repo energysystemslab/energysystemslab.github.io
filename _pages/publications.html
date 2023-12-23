@@ -5,7 +5,13 @@ excerpt: RT2 Lab -- Publications.
 permalink: /publications/
 ---
 
-<h3>Peer reviewed archival journal</h3>
+<ul>
+    <li><a href="#peer_review">Peer reviewed archival journal</a></li>
+    <li><a href="#book">Invited book chapters</a></li>
+    <li><a href="#presentations">Presentations and invited talks</a></li>
+</ul>
+
+<h3 id="peer_review">Peer reviewed archival journal</h3>
 <ul class="list-unstyled">
     {% assign pub_list = site.data.publications | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
 
@@ -21,7 +27,7 @@ permalink: /publications/
     {% endfor %}
 </ul>
 
-<h3>Invited book chapters</h3>
+<h3 id="book">Invited book chapters</h3>
 <ul class="list-unstyled">
     {% assign pub_list = site.data.invited_books | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
 
@@ -37,7 +43,7 @@ permalink: /publications/
     {% endfor %}
 </ul>
 
-<h3>Presentations and invited talks</h3>
+<h3 id="presentations">Presentations and invited talks</h3>
 <ul class="list-unstyled">
     {% assign pub_list = site.data.presentations | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
 
