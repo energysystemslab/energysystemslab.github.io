@@ -2,7 +2,7 @@
 title: Research
 layout: home_research
 excerpt: RT2 Lab -- Research
-permalink: /research/
+permalink: /
 ---
 
 <p>Development of enhanced models for Li-ion batteries to be used in resilient infrastructure applications.</p>
