@@ -4,7 +4,7 @@ category: PhD students
 title: Eric Pereira
 image: soon.png
 role: PhD Student
-permalink: 'team/eric-pereira'
+permalink: 
 social:
   twitter:
   linkedin: 
