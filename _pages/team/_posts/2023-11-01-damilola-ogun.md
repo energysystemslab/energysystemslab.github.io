@@ -1,5 +1,5 @@
 ---
-layout: member_students
+layout: member
 category: Undergraduate Students
 title: Damilola Ogun
 image: soon.png
@@ -12,3 +12,8 @@ social:
   github:
   website:
   orcid:
+  education:
+   - "B.Sc., Wichita State University (2022 - )"
+---
+
+Damilola is a junior in Computer Engineering from Wichita State University.
