@@ -1,5 +1,5 @@
 ---
-layout: member
+layout: member_students
 category: PhD students
 title: Eric Pereira
 image: soon.png
@@ -12,7 +12,3 @@ social:
   github:
   website:
   orcid:
-education:
-  - "M.Sc., Federal University of Itajuba"
-  - "B.Sc., Federal University of Itajuba"
----
