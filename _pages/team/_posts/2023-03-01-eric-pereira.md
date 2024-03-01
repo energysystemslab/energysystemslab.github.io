@@ -12,7 +12,7 @@ social:
   github:
   website:
   orcid:
-  education:
+education:
   - "M.Sc., Federal University of Itajuba (2022)"
   - "B.Sc., Federal University of Itajuba (2018)"
 ---

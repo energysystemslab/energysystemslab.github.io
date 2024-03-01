@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Undergraduate Students
+category: Undergraduate students
 title: Damilola Ogun
 image: soon.png
 role: Undergraduate student researcher
@@ -12,7 +12,7 @@ social:
   github:
   website:
   orcid:
-  education:
+education:
    - "B.Sc., Wichita State University (2022 - )"
 ---
 
