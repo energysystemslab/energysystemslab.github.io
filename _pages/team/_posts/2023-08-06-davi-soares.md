@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Principal investigator
+category: Principal Investigator
 title: Davi Soares
 image: davisoares.jpg
 role: Assistant Professor
