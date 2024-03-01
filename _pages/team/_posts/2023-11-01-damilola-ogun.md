@@ -16,4 +16,4 @@ education:
    - "B.Sc., Wichita State University (2022 - )"
 ---
 
-Damilola is a junior in Computer Engineering from Wichita State University.
+Damilola is a Computer Engineering student at Wichita State University.
