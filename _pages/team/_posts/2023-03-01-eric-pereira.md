@@ -17,4 +17,4 @@ social:
   - "B.Sc., Federal University of Itajuba (2018)"
 ---
 
-Eric holds a degree in physics and an M.Sc. degree in Material Science from the Federal University of Itajuba.
+Eric holds a Bachelor's degree in Physics and a Master's degree in Material Science from the Federal University of Itajuba.
