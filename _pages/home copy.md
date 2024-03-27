@@ -1,5 +1,5 @@
 ---
-title: Energy Storage Lab
+title: Energy Systems Lab
 layout: page
 permalink: /
 ---
