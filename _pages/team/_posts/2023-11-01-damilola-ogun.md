@@ -2,7 +2,7 @@
 layout: member
 category: Undergraduate students
 title: Damilola Ogun
-image: soon.png
+image: Dami.jpg
 role: Undergraduate student researcher
 permalink: 
 social:
