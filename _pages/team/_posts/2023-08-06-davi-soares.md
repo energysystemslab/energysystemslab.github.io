@@ -2,7 +2,7 @@
 layout: member
 category: Principal Investigator
 title: Davi Soares
-image: davisoares.jpg
+image: Davi.jpg
 role: Assistant Professor
 permalink: 'team/davi-soares'
 social:
