@@ -2,7 +2,7 @@
 layout: member
 category: PhD students
 title: Eric Pereira
-image: Eric.jpg
+image: soon.png
 role: PhD Student
 permalink: 
 social:
