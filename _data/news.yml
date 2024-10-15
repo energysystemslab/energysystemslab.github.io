@@ -7,6 +7,14 @@
   content: Soares delivered invited lecture at the Workshop on microgrids and energy battery storage at Universidade Autonoma de Occidente in Cali, Colombia.
 
 - date: June, 2024
+  title: "Newspaper"
+  tags:
+    - some
+    - tags
+  content: Soares was interviewed by a newspaper to discuss the fire risks associated with electric vehicles. A link to the full article can be found <a href="https://thebeaconnews.org/stories/2024/08/05/electric-vehicle-fire-risk/" target="_blank">here</a>.
+
+
+- date: June, 2024
   title: "New graduate student"
   tags:
     - some
