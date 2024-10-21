@@ -1,9 +1,8 @@
 [
-    {"Item Type":"ConfProceedings",
+    {"Item Type":"proceeding",
     "Publication Year":2024,
     "Author":"Ogun, Damilola; Soares, Davi",
-    "Title":"Electrode Materials for High-Performance Sodium-Ion Batteries",
-    "Publication Title":"Electric field analysis at triple-joints and localized defects on different composite insulators designs",
-    "Publisher": "2024 IEEE Conference on Electrical Insulation and Dielectric Phenomena (CEIDP) - in press"}
-    
+    "Title":"Electric field analysis at triple-joints and localized defects on different composite insulators designs",
+    "Publication Title":"2024 IEEE Conference on Electrical Insulation and Dielectric Phenomena (CEIDP) - in press",
+    "Publisher": "IEEE"}
 ]
