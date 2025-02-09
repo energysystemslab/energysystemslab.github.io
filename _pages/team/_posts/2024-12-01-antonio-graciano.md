@@ -2,7 +2,7 @@
 layout: member
 category: Undergraduate students
 title: Antonio Graciano
-image: Graciano.jpg
+image: Graciano1.jpg
 role: Undergraduate student researcher
 permalink: 
 social:
