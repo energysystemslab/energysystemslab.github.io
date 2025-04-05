@@ -46,7 +46,7 @@
   tags:
     - some
     - tags
-  content: Soares was awarded the <a href="https://www.wichita.edu/faculty/awards/index.php" target="_blank">Young Faculty Risk Taker Award 2025.</a>. Thank you!
+  content: Soares was awarded the <a href="https://www.wichita.edu/faculty/awards/index.php" target="_blank">Young Faculty Risk Taker Award 2025.</a> Thank you!
 
 
 - date: November, 2024
@@ -75,8 +75,7 @@
   tags:
     - some
     - tags
-  content: Soares was interviewed by a newspaper to discuss the fire risks associated with electric vehicles. A link to the full article can be found at https://thebeaconnews.org/stories/2024/08/05/electric-vehicle-fire-risk/
-
+  content: Soares was interviewed by a newspaper to discuss the fire risks associated with electric vehicles. A link to the full article can be accessed <a href=" https://thebeaconnews.org/stories/2024/08/05/electric-vehicle-fire-risk/" target="_blank">here.</a>
 
 - date: June, 2024
   title: "New graduate student"
