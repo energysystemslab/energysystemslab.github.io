@@ -1,8 +1,32 @@
 [
     {"Item Type":"proceeding",
+    "Publication Year":2025,
+    "Author":"<b>Pereira, Eric</b>; <b>Hossain, Md Zawad</b>; <b>Ogun, Damilola</b>; Soares, Davi",
+    "Title":"Machine Learning-Based Framework for Online State of Health Assessment and End-of-Life Prediction in Commercial Lithium-Ion Batteries",
+    "Publication Title":"2013 IEEE green technologies conference (GreenTech) - in press",
+    "DOI":null,
+    "Url":null,
+    "Date":"2025-01",
+    "Pages":null,
+    "Issue":null,
+    "Volume":null,
+    "Publisher": "IEEE",
+    "LibraryCatalog":"DOI.org (Crossref)"},
+
+    {"Item Type":"proceeding",
     "Publication Year":2024,
     "Author":"<b>Ogun, Damilola</b>; Soares, Davi",
     "Title":"Electric field analysis at triple-joints and localized defects on different composite insulators designs",
-    "Publication Title":"2024 IEEE Conference on Electrical Insulation and Dielectric Phenomena (CEIDP) - in press",
-    "Publisher": "IEEE"}
+    "Publication Title":"2024 IEEE Conference on Electrical Insulation and Dielectric Phenomena (CEIDP)",
+    "DOI":"https://doi.org/10.1109/CEIDP61745.2024.10907400",
+    "Url":"https://ieeexplore.ieee.org/document/10907400",
+    "Date":"2024-10",
+    "Pages":1-4,
+    "Issue":null,
+    "Volume":null,
+    "Publisher": "IEEE",
+    "LibraryCatalog":"DOI.org (Crossref)"}
 ]
+
+
+
