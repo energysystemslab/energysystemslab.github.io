@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Undergraduate students
+category: undergraduate
 title: Antonio Graciano
 image: Graciano1.jpg
 role: Undergraduate student researcher

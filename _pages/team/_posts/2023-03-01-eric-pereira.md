@@ -1,6 +1,6 @@
 ---
 layout: member
-category: PhD students
+category: phd-student
 title: Eric Pereira
 image: Eric.jpg
 role: PhD Student

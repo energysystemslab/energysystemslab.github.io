@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Undergraduate students
+category: undergraduate
 title: Leland Seiwert
 image: Leland.jpg
 role: Undergraduate student researcher

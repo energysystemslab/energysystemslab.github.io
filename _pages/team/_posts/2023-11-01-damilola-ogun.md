@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Undergraduate students
+category: undergraduate
 title: Damilola Ogun
 image: Dami.jpg
 role: Undergraduate student researcher

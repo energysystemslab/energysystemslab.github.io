@@ -7,7 +7,7 @@ permalink: /team/
 <!-- Principal Investigator -->
 <h2 class="mb-3"><a id="staff"></a>Principal investigator</h2>
 
-{% assign members = site.posts | where: 'category', 'Principal Investigator' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'PI' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
@@ -26,7 +26,7 @@ permalink: /team/
 <!-- Graduate students -->
 <h2 class="mb-3"><a id="grad_student"></a>Graduate students</h2>
 
-{% assign members = site.posts | where: 'category', 'PhD students' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'phd-student' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
@@ -45,7 +45,7 @@ permalink: /team/
 <!-- Undergraduate students -->
 <h2 class="mb-3"><a id="undergrad_student"></a>Undergraduate students</h2>
 
-{% assign members = site.posts | where: 'category', 'Undergraduate students' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'undergraduate' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
