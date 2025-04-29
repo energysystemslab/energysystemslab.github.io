@@ -23,7 +23,7 @@ permalink: /team/
 </div>
 </ul>
 
-<!-- Students -->
+<!-- Graduate students -->
 <h2 class="mb-3"><a id="grad_student"></a>Graduate students</h2>
 
 {% assign members = site.posts | where: 'category', 'PhD students' | sort: 'date' %}
@@ -49,7 +49,7 @@ permalink: /team/
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
-    {% assign ncols = 2 %}
+    {% assign ncols = 3 %}
     {% assign i = forloop.index0 | modulo: ncols %}
         <div class="col">
             {%- include team_member.html -%}
