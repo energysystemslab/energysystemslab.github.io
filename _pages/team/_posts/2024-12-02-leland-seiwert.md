@@ -2,7 +2,7 @@
 layout: member
 category: undergraduate
 title: Leland Seiwert
-image: Leland.jpeg
+image: Leland.jpg
 role: Undergraduate student researcher
 permalink: 
 social:
