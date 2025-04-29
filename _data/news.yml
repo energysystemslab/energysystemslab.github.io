@@ -1,4 +1,11 @@
 - date: April, 2025
+  title: "New member"
+  tags:
+    - some
+    - tags
+  content: Undergraduate student Leland Seiwert joined our lab to do research. Welcome!
+
+- date: April, 2025
   title: "Presentation"
   tags:
     - some
