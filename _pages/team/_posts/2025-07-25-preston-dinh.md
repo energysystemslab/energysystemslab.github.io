@@ -2,7 +2,7 @@
 layout: member
 category: undergraduate
 title: Preston Dinh
-image: Preston.jpg
+image: Preston.png
 role: Undergraduate student researcher
 permalink: 
 social:
