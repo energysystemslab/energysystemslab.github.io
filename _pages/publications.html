@@ -7,6 +7,7 @@ permalink: /publications/
 
 <ul>
     <li><a href="#peer_review">Peer reviewed archival journal</a></li>
+    <li><a href="#conferences">Conference proceedings (peer reviewed)</a></li>
     <li><a href="#book">Invited book chapters</a></li>
 </ul> 
 
@@ -26,7 +27,7 @@ permalink: /publications/
     {% endfor %}
 </ul>
 
-<h3 id="book">Conference proceedings (peer reviewed)</h3>
+<h3 id="conferences">Conference proceedings (peer reviewed)</h3>
 <ul class="list-unstyled">
     {% assign pub_list = site.data.proceedings | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
 
