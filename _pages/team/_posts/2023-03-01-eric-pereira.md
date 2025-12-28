@@ -7,8 +7,8 @@ role: PhD Student
 permalink: 
 social:
   twitter:
-  linkedin: 
-  google-scholar: 
+  linkedin: https://www.linkedin.com/in/ericlpereira/
+  google-scholar: https://scholar.google.com/citations?user=3bc1Fn0AAAAJ
   github:
   website:
   orcid:
