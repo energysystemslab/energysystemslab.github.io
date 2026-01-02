@@ -10,7 +10,7 @@ social:
   linkedin: https://www.linkedin.com/in/davimsoares/
   google-scholar: https://scholar.google.com/citations?user=Nsu2luwAAAAJ
   github:
-  website: https://energysystemslab.github.io/assets/CV_Davi.pdf
+  website: https://energysystemslab.github.io/assets/Soares_CV/
   orcid:
 education:
   - "Ph.D., Kansas State University (2021)"
