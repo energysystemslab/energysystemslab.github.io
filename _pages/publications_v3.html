@@ -13,39 +13,21 @@ permalink: /publications_v3/
 
 <h3 id="peer_review">Peer-reviewed journal publications</h3>
 <ol reversed>
+  <li>T. Dias, F. C. Antunes, J. P. J. de Oliveira, J. P. dos Santos, D. Soares, G. Doubek, and H. Zanin, “Influence of processing parameters on the electrical conductivity of 8 YSZ electrolytes fabricated via tape casting,” <i>Progress in Engineering Science</i>, p. 100250, 2026.</li>
+  <li>D. Rich<sup>*</sup> , <b>M. Z. Hossain</b><sup>*</sup> , V. Nguyen, V. Bishop, W. Wei, D. Soares, and J. Wang, “One-dimensional or three-dimensional NbTe4: crystal growth, crystal and electronic structures, and li-ion storage study,” <i>Nano Views</i>, vol. 2, no. 1, p. 2632615, 2026.</li>
+  <li>Milk</li>
+</ol>
+
+<h3 id="conferences">Conference proceedings (peer reviewed)</h3>
+<ol reversed>
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
 </ol>
 
-<h3 id="conferences">Conference proceedings (peer reviewed)</h3>
-<ul class="list-unstyled">
-    {% assign pub_list = site.data.proceedings | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
-
-    {% for group in pub_list %}
-
-        {% assign year = group.name | to_integer %}
-
-        <!-- <h3 class="mt-4">{{ year }}</h3> -->
-        {% for publi in group.items %}
-            {%- include publication.html -%}
-        {% endfor %}
-
-    {% endfor %}
-</ul>
-
 <h3 id="book">Invited book chapters</h3>
-<ul class="list-unstyled">
-    {% assign pub_list = site.data.invited_books | sort: 'Publication Year' | group_by: 'Publication Year' | reverse %}
-
-    {% for group in pub_list %}
-
-        {% assign year = group.name | to_integer %}
-
-        <!-- <h3 class="mt-4">{{ year }}</h3> -->
-        {% for publi in group.items %}
-            {%- include publication.html -%}
-        {% endfor %}
-
-    {% endfor %}
-</ul>
+<ol reversed>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
