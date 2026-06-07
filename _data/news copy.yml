@@ -1,9 +1,30 @@
+- date: June, 2026
+  title: "MDPI Crystals"
+  tags:
+    - some
+    - tags
+  content: Soares to serve in the Reviewer Board of Crystals journal. 
+
+- date: June, 2026
+  title: "New members"
+  tags:
+    - some
+    - tags
+  content: Research Experiences for Undergraduates (NSF REU) students Bryant Roberts and Ken Shaffer joined our lab to do research this summer. Welcome!
+
+- date: May, 2026
+  title: "REU mentoring"
+  tags:
+    - some
+    - tags
+  content: Soares participated in a panel for REU summer students to share mentoring experiences and career paths. Thank you to the <a href="https://nsfepscor.ku.edu/arise-team" target="_blank">ARISE team</a> for the invitation!
+
 - date: May, 2026
   title: "Paper 2 May 2026"
   tags:
     - some
     - tags
-  content: New publication alert! The paper <a href="https://doi.org/10.1021/acsomega.5c11152" target="_blank">"Low-Temperature Prediction in Commercial Lithium-Ion Batteries during Dynamic Usage via Enhanced Physics-Informed Neural Networks"</a>, authored by the graduate student Eric Pereira has been accepted for publication in ACS Omega. Congratulations to Eric!
+  content: New publication alert! The paper <a href="https://doi.org/10.1021/acsomega.5c11152" target="_blank">"Low-Temperature Prediction in Commercial Lithium-Ion Batteries during Dynamic Usage via Enhanced Physics-Informed Neural Networks"</a>, authored by the graduate student Eric Pereira, has been accepted for publication in ACS Omega. Congratulations to Eric!
 
 - date: May, 2026
   title: "Paper May 2026"
@@ -54,12 +75,19 @@
     - tags
   content: Graduate student Md Zawad Hossain was selected to present his research at the Graduate Research Summit in Topeka, KS. He was among only ten graduate students chosen to represent Wichita State University. Congratulations!
 
-- date: December, 2025
-  title: "paper"
+- date: January, 2026
+  title: "ENGINES"
   tags:
     - some
     - tags
-  content: New publication alert! Congratulations to graduate student Md Zawad Hossain for his recent work on the electrochemical activity of NbSe<sub>2</sub> in beyond lithium-ion battery technologies published in Future Batteries - <a href="https://doi.org/10.1016/j.fub.2025.100131" target="_blank">Open access link.</a>
+  content: Soares attended the NSF site visit at the for <a href="https://www.nsf.gov/news/nsf-selects-15-finalists-advance-next-round-its-second" target="_blank">"NSF ENGINES</a> at University of Missouri-Kansas City (UMKC).
+
+- date: December, 2025
+  title: "paper_NbSe2"
+  tags:
+    - some
+    - tags
+  content: New publication alert! The paper <a href="https://doi.org/10.1016/j.fub.2025.100131" target="_blank">"Electrochemical activity of NbSe<sub>2</sub> in sodium and potassium-ion batteries a temperature-dependent study"</a>, authored by the graduate student Md Zawad Hossain, has been accepted for publication in Future Batteries. Congratulations to Zawad!
 
 - date: December, 2025
   title: "Webinar"
@@ -97,6 +125,13 @@
   content: Second-year PhD student Md Zawad Hossain has received the Dora Wallace Hodgson-Outstanding Doctoral Student Award in recognition of his research accomplishments. Congratulations! <a href="https://news.wichita.edu/2025/11/13/graduate-school-announces-annual-awards-recipients/" target="_blank">Link.</a>
 
 - date: November, 2025
+  title: "Research"
+  tags:
+    - some
+    - tags
+  content: Soares attended the NSF ENGINES workshop on Critical Materials Crossroads (CMC) at the University of Missouri-Kansas City (UMKC). The CMC is one of the 15 finalists to advance to the next round of its second Regional Innovation Engines competition. <a href="https://www.nsf.gov/news/nsf-selects-15-finalists-advance-next-round-its-second" target="_blank">Link.</a>
+
+- date: November, 2025
   title: "Service"
   tags:
     - some
@@ -108,7 +143,7 @@
   tags:
     - some
     - tags
-  content: Undergraduate student researcher Nithish Aravinthan was awarded the second place for the best presentation in the undergraduate category in the 57<sup>th</sup> North American Power Symposium (NAPS) 2025. The conference paper can be found at the following <a href="https://doi.org/10.1109/NAPS66256.2025.11272341" target="_blank">Link.</a> Congratulations!
+  content: Undergraduate student researcher Nithish Aravinthan was awarded the second place for the best presentation in the undergraduate category in the 57<sup>th</sup> North American Power Symposium (NAPS) 2025. The conference paper can be found at the following <a href="https://doi.org/10.1109/NAPS66256.2025.11272341" target="_blank">Link.</a> Congratulations to Nithish!
 
 - date: October, 2025
   title: "New member"
@@ -192,7 +227,7 @@
   tags:
     - some
     - tags
-  content: New publication alert! Congratulations to graduate student Eric Pereira and undergraduate student Damilola Ogun for their recent work on a comprehensive real-time state of health (SOH) assessment framework published in ChemElectroChem. <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202400708" target="_blank">Open access link.</a>
+  content: New publication alert! The paper <a href=" https://doi.org/10.1002/celc.202400708" target="_blank">"CRISP A Comprehensive Framework for Online State of Health Assessment in Commercial Lithium-Ion Batteries"</a>, authored by the graduate student Eric Pereira and the undergraduate student Damilola Ogun, has been accepted for publication in in ChemElectroChem. Congratulations to Eric and Dami!
 
 - date: March, 2025
   title: "Presentation"
