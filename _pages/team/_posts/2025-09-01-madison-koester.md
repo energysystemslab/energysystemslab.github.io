@@ -1,6 +1,6 @@
 ---
 layout: member
-category: msc-student
+category: phd-student
 title: Madison Koester 
 image: soon.png
 role: MSc Student
