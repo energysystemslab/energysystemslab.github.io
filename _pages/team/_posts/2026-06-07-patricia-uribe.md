@@ -2,7 +2,7 @@
 layout: member
 category: undergraduate
 title: Patricia Castro Uribe
-image: soon.png
+image: Uribe_Patricia.jpg
 role: Undergraduate student researcher
 permalink: 
 social:
