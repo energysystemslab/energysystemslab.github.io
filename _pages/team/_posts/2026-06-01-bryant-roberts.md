@@ -2,7 +2,7 @@
 layout: member
 category: undergraduate
 title: Bryant Roberts
-image: soon.png
+image: Roberts_Bryant.jpg
 role: Undergraduate student researcher
 permalink: 
 social:

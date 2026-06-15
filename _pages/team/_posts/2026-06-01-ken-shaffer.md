@@ -2,7 +2,7 @@
 layout: member
 category: undergraduate
 title: Ken Shaffer
-image: soon.png
+image: Shaffer_Ken.jpg
 role: Undergraduate student researcher
 permalink: 
 social:
