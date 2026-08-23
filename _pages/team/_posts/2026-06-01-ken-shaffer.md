@@ -1,6 +1,6 @@
 ---
 layout: member
-category: undergraduate
+category: alumni
 title: Ken Shaffer
 image: Shaffer_Ken.jpg
 role: Undergraduate student researcher

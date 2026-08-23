@@ -1,6 +1,6 @@
 ---
 layout: member
-category: undergraduate
+category: alumni
 title: Bryant Roberts
 image: Roberts_Bryant.jpg
 role: Undergraduate student researcher
