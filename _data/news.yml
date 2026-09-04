@@ -90,6 +90,13 @@
   content: New publication alert! A journal paper reporting a systematic study on processing parameters of 8YSZ for solid oxide fuel cells, in collaboration with University of Campinas (UNICAMP) in Brazil, has been published in Progress in Engineering Science. <a href="https://doi.org/10.1016/j.pes.2026.100250" target="_blank">Link.</a>
 
 - date: March, 2026
+  title: "Hackaton 2026"
+  tags:
+    - some
+    - tags
+  content: Soares served as a judge for the WSU Society of Asian Scientists and Engineers (SASE) Hack the Wu hackathon.
+
+- date: March, 2026
   title: "ARCS award 2026"
   tags:
     - some
